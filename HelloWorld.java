@@ -10,7 +10,7 @@ class HelloWorld
 		System.out.println("Hello, World");
 		
 	//created by yunus
-		system.out.println("second line"); 
+		System.out.println("second line"); 
 	}
 
 }
